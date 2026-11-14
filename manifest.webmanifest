@@ -1,0 +1,37 @@
+{
+  "name": "Hollowsky: The Thousand Isles",
+  "short_name": "Hollowsky",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#05060c",
+  "theme_color": "#0b1026",
+  "categories": [
+    "games"
+  ],
+  "description": "An original 3D adventure across 1,000 floating isles. Plays fully offline.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
